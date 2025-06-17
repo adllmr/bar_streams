@@ -1,5 +1,8 @@
 /GC_debris_bar.mp4
 /data
+!/data/GC_catalogue.txt
+!/data/summary_stream_orbits.fits
 /sims
 /patternSpeed.py
 /variance.py
+/mock_data.ipynb
