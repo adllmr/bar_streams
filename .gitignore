@@ -2,6 +2,7 @@
 /data/*
 !/data/GC_catalogue.txt
 !/data/summary_stream_orbits.fits
+!/data/substructure_naidu.txt
 /sims
 /patternSpeed.py
 /variance.py
