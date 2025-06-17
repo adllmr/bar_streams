@@ -1,5 +1,5 @@
 /GC_debris_bar.mp4
-/data
+/data/*
 !/data/GC_catalogue.txt
 !/data/summary_stream_orbits.fits
 /sims
